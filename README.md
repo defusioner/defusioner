@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**defusioner/defusioner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+React + Node developer here.
 
-Here are some ideas to get you started:
+Currently working at...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formerly (newest to latest):
+- MyDataModels https://www.mydatamodels.com
+- ATEME https://www.ateme.com
+- Sword https://www.sword-group.com
+
+My pet projects:
+- Shop List https://koretski.dev/shoplist/
+- Web Sifter https://koretski.dev/websifter/
+
+Club of interests: 
+🏄🏼‍♂️🥾🥋👨🏼‍💻📚🌊🪶
+
+📫 How to reach me:
+borys(dot)koretskyi(at)gmail(dot)com
