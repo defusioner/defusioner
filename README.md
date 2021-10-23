@@ -2,7 +2,7 @@
 
 React + Node developer here.
 
-Currently working at...
+Currently working at @castoredc
 
 Formerly (newest to latest):
 - MyDataModels https://www.mydatamodels.com
