@@ -10,8 +10,8 @@ Formerly (newest to latest):
 - Sword https://www.sword-group.com
 
 My pet projects:
-- Shop List https://koretski.dev/shoplist/
-- Web Sifter https://koretski.dev/websifter/
+- Shop List https://koretski.ddns.net/shoplist/
+- Web Sifter https://koretski.ddns.net/websifter/
 
 Club of interests: 
 🏄🏼‍♂️🥾🥋👨🏼‍💻📚🌊🪶
